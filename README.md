@@ -103,6 +103,14 @@ Instale-as com comando no 3º index logo acima.
 Esse projeto teve como objetivo treinar conceitos de lógica de programação e inteligência artificial. O projeto foi bem desafiador
 e me proporcionou um bom entendimento das libraries usadas, bem como também, conceitos matemáticos e lógicos.
 
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/25636075-4f83-44e3-817f-ced3439d564a)
+
+![image](https://github.com/user-attachments/assets/402de69d-0e09-4f18-bf19-58568003f332)
+
+![image](https://github.com/user-attachments/assets/1f614f07-e982-4471-a5ee-ee12a3370c57)
+
 ## 👨‍💻 Contribuição
 
 Sinta-se à vontade para contribuir! Se encontrar bugs ou tiver sugestões, abra uma issue ou faça um pull request.
