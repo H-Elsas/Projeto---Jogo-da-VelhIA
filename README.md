@@ -48,7 +48,7 @@ pip install -r requirements.txt
 3️⃣ Execute o jogo:
 
 ```sh
-python jogo_da_velhia.py
+python game.py
 ```
 
 ## 🎮 Como Jogar
