@@ -35,7 +35,7 @@ Um jogo da velha desenvolvido em Python usando Pygame, com um modo de jogo contr
 1️⃣ Clone este repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/jogo-da-velhia.git
+git clone https://github.com/H-Elsas/Projeto---Jogo-da-VelhIA
 cd jogo-da-velhia
 ```
 
